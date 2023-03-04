@@ -1,0 +1,9 @@
+body {
+    background-color: tan;
+    color: rgb(112, 11, 11);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#logo {
+    width: 200px;
+}
