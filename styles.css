@@ -5,9 +5,19 @@ body {
 
 .flex-container {
     display: flex;
+    padding: 10px;
+    height: 45px;
+    background-color: rgb(145, 41, 10);
+    color: rgb(243, 217, 199);
+    justify-content: space-between;
+    align-items: center;
 }
 
 div.nav {
+
+}
+
+/* div.nav {
     background-color: rgb(145, 41, 10);
     color: rgb(243, 217, 199);
     padding: 8px;
@@ -16,8 +26,8 @@ div.nav {
     border-radius: 10px 0px 5px 0px;
     border-bottom: 2px dashed rgb(243, 217, 199);
     text-align: center;
-    text-shadow: 2px 2px 5px black;
-}
+    text-shadow: 2px 2px 5px black; 
+} */
 
 .header {
     background-color: rgb(145, 41, 10);
